@@ -1,0 +1,2 @@
+# ForRealOfmszr
+java project kodluyoruz
